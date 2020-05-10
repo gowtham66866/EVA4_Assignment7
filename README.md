@@ -18,8 +18,7 @@
 8. All the code is split and individual modules are called upon for execution - **Done**    
 
 ## Model Summary  
-
-![Model Summary](./images/Model_Summary.png)
+![image](https://user-images.githubusercontent.com/36323558/81509423-34152f80-9328-11ea-9c22-8138b09ec692.png)
 
 ## Receptive Field Calculations 
 
