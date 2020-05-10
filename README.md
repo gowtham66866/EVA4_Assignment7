@@ -141,7 +141,7 @@ Best Test Accuracy : 81.49%
 ![image](https://user-images.githubusercontent.com/36323558/81509476-953d0300-9328-11ea-81d3-69087d9a108f.png)
 
 ### Validation Loss  
-![Validation Loss](./images/Validation_Loss.png)
+![image](https://user-images.githubusercontent.com/36323558/81509506-ce757300-9328-11ea-8a96-3d583c110fd2.png)
 
 ### 25 misclassified images for L2 : Best Model  
 ![L2 misclassified](./images/Val_L2_Misclassification.png)
