@@ -138,7 +138,7 @@ Best Test Accuracy : 81.49%
 ## Result Visualizations
 
 ### Validation Accuracy   
-![Validation Accuracy](./images/Validation_Accuracy.png)
+![image](https://user-images.githubusercontent.com/36323558/81509476-953d0300-9328-11ea-81d3-69087d9a108f.png)
 
 ### Validation Loss  
 ![Validation Loss](./images/Validation_Loss.png)
